@@ -39,7 +39,7 @@ Keep evidence of the process, not only the successful result.
 
 **Original idea**
 
-<!-- Add your drawing and a short description. -->
+![[b 1.jpeg]]
 
 **First instruction set**
 
@@ -52,11 +52,12 @@ Keep evidence of the process, not only the successful result.
 
 **First execution**
 
-<!-- Embed or link the result produced by your partner. -->
+![[WhatsApp Image 2026-09-15 at 17.43.49.jpeg]]
 
 **Where did interpretation differ?**
 
--
+- the paper was not in the same direction
+- the circle is in another place
 -
 
 **Revised instructions**

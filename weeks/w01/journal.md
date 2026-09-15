@@ -43,12 +43,12 @@ Keep evidence of the process, not only the successful result.
 
 **First instruction set**
 
-1.
-2.
-3.
-4.
-5.
-6.
+1.Zeichne eine diagonale Linie
+2.Parallel zu dieser Linie zeichne zu ihrer rechten Seite weitere Linien. Sie sollten immer kürzer werden.
+3.Nach dem letzten Strich rechts, zeichne einen Kreis
+4.Links von der ersten Linie die du gezeichnet hast, zeichne ein Dreieck. Eine Seite des Dreiecks sollte parallel zur ersten Linie sein.
+5.In der unteren Ecke des Dreiecks zeichne drei Kreise vertikal von klein zu gross.
+
 
 **First execution**
 

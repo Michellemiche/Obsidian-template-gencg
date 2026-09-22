@@ -62,7 +62,7 @@ Keep evidence of the process, not only the successful result.
 
 **Revised instructions**
 
-1.
+1. 
 2.
 3.
 4.
@@ -79,7 +79,13 @@ Keep evidence of the process, not only the successful result.
 
 **First instruction set**
 
-1.
+1.The paper is in porträrt direction
+2. In the middle of the paper there is a circle
+3. Draw a line in the circle like when in a clock the big line shows 5 past
+4. Draw a rectangle around the circle, it should not be much bigger than the circle 
+5. In the top right corner of the rectangle there is a filled circle that covers the edge
+6. Draw 8 horizontal lines under the rectangle that get smaller and under the last one draw 5 circles which get bigger
+7. On the left of the rectangle draw a big triangle. In this triangle draw 3 more triangle that get smaller
 
 
 **First execution**

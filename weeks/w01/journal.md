@@ -79,9 +79,9 @@ Keep evidence of the process, not only the successful result.
 
 **First instruction set**
 
-1.The paper is in porträrt direction
+1. The paper is in horizotal position
 2. In the middle of the paper there is a circle
-3. Draw a line in the circle like when in a clock the big line shows 5 past
+3. Draw a line in the circle like when in a clock the big line shows 5 to
 4. Draw a rectangle around the circle, it should not be much bigger than the circle 
 5. In the top right corner of the rectangle there is a filled circle that covers the edge
 6. Draw 8 horizontal lines under the rectangle that get smaller and under the last one draw 5 circles which get bigger
@@ -108,14 +108,79 @@ Keep evidence of the process, not only the successful result.
 <!-- Add a sketch or diagram of the system. -->
 
 ### Human → Computer
-
+![[Pasted image 20260922172904.png]]
 What did a human understand automatically that the computer needed you to specify?
 
--
+- the clock referense could not be used for the js I had to work with angles
 -
 
 ```js
-// Add your own p5.js translation here.
+// Add your own p5.js translation here.function setup() {
+
+  createCanvas(windowHeight, windowHeight/2)
+
+}
+
+  
+
+function draw() {
+
+  background(244, 243, 239)
+
+  noFill();
+
+  circle(width/2, height/2, 100)
+
+  rectMode(CENTER);
+
+  
+
+  rect(width/2, height/2, 150)
+
+  fill(0);
+
+  circle(width/2 + 75, height/2 - 75, 30)
+
+  noFill();
+
+  triangle(width/2-80, height/2 + 75, 10, height/2 + 75, 10, 10);
+
+  let x1 = width/2;
+
+  let y1 = height/2;
+
+  let angle = PI*1.65;
+
+  let len = 45;
+
+  
+
+  // Calculate end coordinates
+
+  let x2 = x1 + cos(angle) * len;
+
+  let y2 = y1 + sin(angle) * len;
+
+  line(x1, y1, x2, y2);
+
+  
+  
+
+  let l1 = width/2-70;
+
+  let g1 = height/2 + 90;
+
+  line(l1, g1,l1 + 140, g1)
+
+}
+
+  
+
+function windowResized() {
+
+  resizeCanvas(windowWidth, windowHeight)
+
+}
 ```
 
 **Parameters tested**
@@ -127,8 +192,7 @@ What did a human understand automatically that the computer needed you to specif
 
 **Technical challenges or failed attempts**
 
--
--
+- The lines under the rectangle are gettting smaller but are getting smaller from the middle point of the line. I was not able to do that without mathematics as i have to define the first point and the las point of a line and can't say from middle point 20 in one direction an 20 in the other direction
 
 ## 2. Influences & References
 

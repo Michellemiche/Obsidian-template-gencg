@@ -71,7 +71,24 @@ Keep evidence of the process, not only the successful result.
 
 **Second execution**
 
-<!-- Embed or link the second result. What changed? -->
+### Human → Human
+
+**Original idea**
+
+![[4. Michelle 1.pdf]]
+
+**First instruction set**
+
+1.
+
+
+**First execution**
+
+![[5. Lösung Phariya 1.pdf]]
+
+**Where did interpretation differ?**
+
+- the position of the triangles was not clearly definded
 
 ### Small rule system
 
